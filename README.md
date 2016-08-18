@@ -8,7 +8,7 @@ This app demonstrates the target detection ability of Walabot. A human head foll
 ## How to use
 
 1. Install the [Walabot SDK](http://walabot.com/getting-started).
-2. Position the Walabot as the instructed below.
+2. Position the Walabot as  instructed below.
 3. Download and add the app files.
 3. Run `BigBrother.m` and start moving! :eyes:
 
@@ -21,8 +21,9 @@ The Walabot device should be positioned in the following manner:
 * The longer dimension of the device is in parallel with the floor.
 * The USB connector is at your right.
 
-![Positioning the Walabot](https://raw.githubusercontent.com/Walabot-Projects/Walabot-BigBrother/master/Walabot_BigBrotherL.png)
-![Positioning the Walabot](https://raw.githubusercontent.com/Walabot-Projects/Walabot-BigBrother/master/Walabot_BigBrotherR.png)
+![Positioning the Walabot](https://raw.githubusercontent.com/Walabot-Projects/Walabot-BigBrother/master/Walabot_BigBrotherL.PNG)
+
+![Positioning the Walabot](https://raw.githubusercontent.com/Walabot-Projects/Walabot-BigBrother/master/Walabot_BigBrotherR.PNG)
 
 ## Editing the Code
 
@@ -35,7 +36,7 @@ All those variables should vary between different Walabot boards, operating syst
 
 * `R_in` - Walabot [`SetArenaR`](http://api.walabot.com/_walabot_a_p_i_8h.html#aac6cafa27c4a7d069dd64c903964632c) parameters.
 * `Theta_in` -  Walabot [`SetArenaTheta`](http://api.walabot.com/_walabot_a_p_i_8h.html#a3832f1466248274faadd6c23127b998d) parameters.
-* `Phi_in` - Walabot [`SetArenaPhi`]((http://api.walabot.com/_walabot_a_p_i_8h.html#a9afb632b5cce965eba63b323bc579557) parameters.
+* `Phi_in` - Walabot [`SetArenaPhi`](http://api.walabot.com/_walabot_a_p_i_8h.html#a9afb632b5cce965eba63b323bc579557) parameters.
 * `Threshold` - Walabot [`SetThreshold`](http://api.walabot.com/_walabot_a_p_i_8h.html#a4a19aa1afc64d7012392c5c91e43da15) parameter.
 
 A comprehensive explanation about the Walabot imaging features can be found [here](http://api.walabot.com/_features.html).
