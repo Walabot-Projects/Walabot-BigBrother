@@ -12,7 +12,7 @@ This app demonstrates the target detection ability of Walabot. A human head foll
 3. Download and add the app files.
 3. Run `BigBrother.m` and start moving! :eyes:
 
-**IMPORTANT NOTE:** Current Walabot settings are for vMaker18.
+**IMPORTANT NOTE:** Current Walabot settings are for Walabot Developer (formerly Walabot Pro).
 
 ### Positioning the Walabot
 
